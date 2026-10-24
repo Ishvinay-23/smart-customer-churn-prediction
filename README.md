@@ -1,5 +1,12 @@
 # Smart Customer Churn Prediction & Retention System
 
+🚀 **Live Demo:** [Launch the Streamlit App](https://smart-customer-churn-prediction-v4uhvk2cmddjceq3cgyyqc.streamlit.app/)
+
+💻 **Source Code:** [GitHub Repository](https://github.com/Ishvinay-23/smart-customer-churn-prediction)
+
+
+A machine learning dashboard for predicting customer churn, segmenting customers, analyzing churn factors, and comparing model performance.
+
 A machine-learning project that estimates the probability that a bank customer will leave, assigns a provisional churn-risk category, groups customers into segments, and suggests rule-based retention actions through a Streamlit dashboard.
 
 ## Features

@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.venv*/
+venv/
+env/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+.streamlit/secrets.toml
+
+# Local dataset (check its license before publishing)
+Churn_Modelling.csv
+Churn_Modelling_dataset.csv
+
+# Local model bundles / archives
+saved_models.zip

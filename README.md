@@ -96,6 +96,20 @@ These are saved experiment results, not live evaluations performed when the dash
 - The saved model artifacts are required to run inference. If any artifact is too large for GitHub's normal file limits, use Git LFS or a suitable model-artifact hosting solution.
 - Only commit files you understand and are allowed to publish.
 
+## 📸 Project Screenshots
+
+### Dashboard Overview
+![Dashboard](screenshots/dashboard.png)
+
+### Customer Churn Prediction
+![Churn Prediction](screenshots/churn_prediction.png)
+
+### Customer Segmentation
+![Customer Segmentation](screenshots/customer_segmentation.png)
+
+### Model Comparison
+![Model Comparison](screenshots/model_comparison.png)
+
 ## License
 
 No license is specified yet. Add a license only after deciding how you want others to use, modify, and redistribute the project.
